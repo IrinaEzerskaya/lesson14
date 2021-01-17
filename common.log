@@ -1,0 +1,54 @@
+янв. 17, 2021 2:47:23 PM com.company.BillBuilderWithLog main
+INFO: Подготовка структур в памяти
+янв. 17, 2021 2:47:23 PM com.company.BillBuilderWithLog main
+INFO: Чтение исходного файла
+янв. 17, 2021 2:47:23 PM com.company.BillBuilderWithLog main
+INFO: Название товара = Колбаса
+янв. 17, 2021 2:47:23 PM com.company.BillBuilderWithLog main
+INFO:   кол-во = 0.315
+янв. 17, 2021 2:47:23 PM com.company.BillBuilderWithLog main
+INFO:   цена товара = 315.99
+янв. 17, 2021 2:47:23 PM com.company.BillBuilderWithLog main
+INFO: Название товара = Сыр Костромской
+янв. 17, 2021 2:47:23 PM com.company.BillBuilderWithLog main
+INFO:   кол-во = 0.270
+янв. 17, 2021 2:47:23 PM com.company.BillBuilderWithLog main
+INFO:   цена товара = 352.99
+янв. 17, 2021 2:47:23 PM com.company.BillBuilderWithLog main
+INFO: Название товара = Картошка
+янв. 17, 2021 2:47:23 PM com.company.BillBuilderWithLog main
+INFO:   кол-во = 4.6
+янв. 17, 2021 2:47:23 PM com.company.BillBuilderWithLog main
+INFO:   цена товара = 25
+янв. 17, 2021 2:47:23 PM com.company.BillBuilderWithLog main
+INFO: Название товара = Молоко топленое
+янв. 17, 2021 2:47:23 PM com.company.BillBuilderWithLog main
+INFO:   кол-во = 3
+янв. 17, 2021 2:47:23 PM com.company.BillBuilderWithLog main
+INFO:   цена товара = 62
+янв. 17, 2021 2:47:23 PM com.company.BillBuilderWithLog main
+INFO: Название товара = Яйцо куриное
+янв. 17, 2021 2:47:23 PM com.company.BillBuilderWithLog main
+INFO:   кол-во = 2
+янв. 17, 2021 2:47:23 PM com.company.BillBuilderWithLog main
+INFO:   цена товара = 39.90
+янв. 17, 2021 2:47:23 PM com.company.BillBuilderWithLog main
+INFO: Название товара = Масло сливочное
+янв. 17, 2021 2:47:23 PM com.company.BillBuilderWithLog main
+INFO:   кол-во = 2
+янв. 17, 2021 2:47:23 PM com.company.BillBuilderWithLog main
+INFO:   цена товара = 98.5
+янв. 17, 2021 2:47:23 PM com.company.BillBuilderWithLog main
+INFO: Название товара = Грудка цыпленка
+янв. 17, 2021 2:47:23 PM com.company.BillBuilderWithLog main
+INFO:   кол-во = 1.207
+янв. 17, 2021 2:47:23 PM com.company.BillBuilderWithLog main
+INFO:   цена товара = 143.90
+янв. 17, 2021 2:47:23 PM com.company.BillBuilderWithLog main
+INFO: Название товара = Пиво светлое
+янв. 17, 2021 2:47:23 PM com.company.BillBuilderWithLog main
+INFO:   кол-во = 20
+янв. 17, 2021 2:47:23 PM com.company.BillBuilderWithLog main
+INFO:   цена товара = 79.80
+янв. 17, 2021 2:47:23 PM com.company.BillBuilderWithLog main
+INFO: Осуществляем расчет чека
